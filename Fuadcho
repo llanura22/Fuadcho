@@ -1,0 +1,43 @@
+{
+  "name": "Fuadcho",
+  "identifier": "com.fuadcho.MyApps",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://nintendo-central-nintendo.fandom.com/wiki/File:Super_Mushroom_SMW.png",
+  "headerURL": "https://nintendo-central-nintendo.fandom.com/wiki/File:Super_Mushroom_SMW.png",
+  "website": "https://fuadcho.com",
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
+  "apps": ["apps": [
+    {
+        "name": "EXIF Viewer",
+        "bundleIdentifier": "com.exifviewer.app",
+        "developerName": "Fuadcho",
+        "subtitle": "An awesome app.",
+        "localizedDescription": "This is an awesome app only available on AltStore.",
+        "iconURL": "https://example.com/myapp_icon.png",
+        "tintColor": "#F54F32",
+        "screenshotURLs": [
+            "https://example.com/myapp_screenshot1.png",
+            "https://example.com/myapp_screenshot2.png",
+            "https://example.com/myapp_screenshot3.png"
+        ],
+        "versions": ["versions": [
+  {
+    "version": "1.0",
+    "date": "2023-03-30",
+    "localizedDescription": "First AltStore release!",
+    "downloadURL": "https://myapp.com/myapp-1.0.ipa",
+    "size": 79821,
+    "minOSVersion": "12.0",
+    "maxOSVersion": "16.3"
+  },
+]],
+        "appPermissions": {},
+    },
+]],
+  "news": [],
+}
